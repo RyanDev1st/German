@@ -1,0 +1,5 @@
+- einkaufen (to shop)
+- das Kaufhaus (department store)
+- das Kleid (dress)
+- im Angebot (on sale)
+- günstig (affordable)

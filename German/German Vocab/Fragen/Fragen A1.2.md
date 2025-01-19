@@ -1,0 +1,13 @@
+- Was darf es sein? - How can I help you? / What would you like?
+- Ich hätte gern 1kg Bananen - I would like 1kg of bananas
+- Wo finde ich Paprikas? - Where can I find bell peppers?
+- auf Regal 13 - on shelf 13
+- Du kannst Paprikas auf dem Wochenmarkt finden - You can find bell peppers at the weekly market
+- Du findest Paprikas auf dem Wochenmarkt - You find bell peppers at the weekly market
+- Welchen Käse isst du gern? - What kind of cheese do you like to eat?
+- Welchen Käse suchst du? - What kind of cheese are you looking for?
+- Welcher Käse ist im Angebot? - Which cheese is on sale/special offer?
+- Möchten Sie lieber die Erdbeeren aus Deutschland oder aus Vietnam? - Would you prefer the strawberries from Germany or from Vietnam?
+- Lieber die aus Vietnam. - Preferably the ones from Vietnam.
+- Welchen Wein trinkst du gern? - Which wine do you like to drink?
+- Ich trinke gern den aus Frankreich - I like to drink the one from France

@@ -1,0 +1,4 @@
+- Neuigkeiten (news)
+- hell (bright)
+- der Balkon (balcony)
+- die U-Bahn (subway)

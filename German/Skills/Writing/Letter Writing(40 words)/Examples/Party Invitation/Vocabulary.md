@@ -1,0 +1,3 @@
+- feiern (to celebrate)
+- einladen (to invite)
+- nächste Woche (next week)

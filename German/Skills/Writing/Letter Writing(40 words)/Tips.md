@@ -1,0 +1,6 @@
+- Always start with a greeting and ask how the person is doing
+- Keep sentences simple but informative
+- Use connecting words like "und" (and), "aber" (but), "auch" (also)
+- End with a question or future plan to engage the reader
+- Use appropriate closing phrases
+- Try to stay within the 40-word limit by being concise

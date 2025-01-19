@@ -1,0 +1,5 @@
+- die Grundschule (primary school)
+- der Arbeitstag (workday)
+- unterrichten (to teach)
+- der Beruf (profession)
+- erzählen (to tell)

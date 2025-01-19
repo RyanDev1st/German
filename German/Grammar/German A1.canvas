@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"823018a15c88b265","type":"group","x":-440,"y":-220,"width":940,"height":460,"label":"Noun Usage"},
+		{"id":"da0479107006665f","type":"file","file":"German/Junks/Pronoun.md","x":-420,"y":-180,"width":400,"height":400},
+		{"id":"596e1fdd682333c8","type":"file","file":"German/Junks/Sein.md","x":80,"y":-180,"width":400,"height":400},
+		{"id":"a274932e3fbe09a2","type":"file","file":"German/Junks/4 cases.md","x":-294,"y":299,"width":400,"height":400},
+		{"id":"e7e16277e752f6c2","type":"text","text":"henkunf\nsofort\nbraten\nvershiechen\nWeg","x":230,"y":469,"width":310,"height":331}
+	],
+	"edges":[
+		{"id":"542431933ebbb3d3","fromNode":"da0479107006665f","fromSide":"top","toNode":"596e1fdd682333c8","toSide":"top"},
+		{"id":"a71cf8e8aa5b4815","fromNode":"e7e16277e752f6c2","fromSide":"top","toNode":"823018a15c88b265","toSide":"bottom"}
+	]
+}
